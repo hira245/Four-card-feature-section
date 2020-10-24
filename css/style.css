@@ -21,7 +21,7 @@ body {
   align-items: center;
   min-width: 290px;
   max-width: 392px;
-  padding: 5rem 2.5rem;
+  padding: 5rem 0.5rem;
   background-color: #fff;
   width: 80%;
 }
@@ -57,7 +57,7 @@ header .description {
 }
 
 .cart {
-  min-width: 200px;
+  min-width: 250px;
   padding: 1.5rem 2.5rem;
   border-radius: 0.6rem;
   border-top: 4px solid;
